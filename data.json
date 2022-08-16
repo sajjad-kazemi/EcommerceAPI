@@ -1,0 +1,14 @@
+[
+  {
+  "product 1":{
+    "name":"item 1",
+    "color":"blue",
+    "price":250000,
+    "images":[
+      "link1",
+      "link2",
+      "link3"
+    ]
+  }
+}
+]
