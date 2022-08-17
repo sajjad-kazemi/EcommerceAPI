@@ -1,0 +1,20 @@
+[
+  {
+    "name": "item 1",
+    "color": "blue",
+    "price": 250000,
+    "images": [
+      "https://sajjad-kazemi.github.io/EcommerceAPI/ldoce_112.png",
+      "link2",
+      "link3"
+    ]
+  },
+  {
+    "name": "item 2",
+    "color": "gray",
+    "price": 150000,
+    "images": [
+      "https://sajjad-kazemi.github.io/EcommerceAPI/ldoce_112.png"
+    ]
+  },
+]
